@@ -1,2 +1,2 @@
 # countapp
-A flutter count application
+A static flutter  application
